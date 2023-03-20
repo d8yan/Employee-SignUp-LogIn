@@ -1,6 +1,6 @@
--Project Title
+# Project Title
 
-# Employee-SignUp-LogIn
+Employee-SignUp-LogIn
 
 
 -About the Project
