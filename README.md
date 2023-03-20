@@ -3,12 +3,12 @@
 Employee-SignUp-LogIn
 
 
--About the Project
+# About the Project
 
 This project is a web application for employees to register an account and login to the employee welcome page. It is built using HTML, CSS, Java and connected with MySQL database. The application allows employees to view employee welcome page.
 
 
--Navigating the Repo
+# Navigating the Repo
 
 The repository contains the source code, SQL database schema, and configuration files for the application. 
 The main code files are organized in the following folders:
@@ -23,7 +23,7 @@ The main code files are organized in the following folders:
     2.sql: contains the SQL schema file
 
 
--Guidelines
+# Guidelines
 
 Before contributing to the project, please read the following guidelines:
 
@@ -32,7 +32,7 @@ Before contributing to the project, please read the following guidelines:
   3. All pull requests must be reviewed and approved by a project maintainer before merging
 
 
--Testing
+# Testing
 
 Here's a process for conducting unit testing for this project:
 
@@ -49,7 +49,7 @@ Here's a process for conducting unit testing for this project:
   6. Repeat: As new features are added to the application or bugs are fixed, continue to write new unit tests and run existing tests to ensure that everything is working as expected. This will help to maintain the overall quality and reliability of the application.
    
 
--Building and Deployment
+# Building and Deployment
 
 To build the application, follow these steps:
 
@@ -61,18 +61,18 @@ To build the application, follow these steps:
 6. Build the project using Maven
 7. Deploy the application to Tomcat
 
--LINK for installed project
+# LINK for installed project
 
 
--Version Control
+# Version Control
 
 We use Git for version control. Please follow the Git branching model and create a new branch for each feature or bug fix. Once the changes have been reviewed and tested, merge the branch to the master branch.
 
--Future Ehancement
+# Future Ehancement
 
 We will add the front-end and back-end validation in the future, and more content of the employee welcome page.
 
---How to Run the Project Locally
+# How to Run the Project Locally
 To run the application, follow these steps:
 
 1. Deploy the application to Tomcat
@@ -82,7 +82,7 @@ To run the application, follow these steps:
 5. Log in using the credentials you just created
 5. Explore the employee welcome page.
 
---How to Run the Project Online
+# How to Run the Project Online
 1.
 2.You will land to login page and click on the "Register" button to create a new account
 3. Log in using the credentials you just created
